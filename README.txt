@@ -1,11 +1,2 @@
-
-Parameter settings used to generate log files:
-
-file = dictionary2.txt, SHOW_COUNT = true
-Files: log1, log2, log3
-
-file = dictionary.txt, SHOW_COUNT = true
-Files: log4
-
-file = dictionary.txt, SHOW_COUNT = false
-Files: log5, log6, log7, log8, log9
+This game is a version of hangman where you play against the computer, and the computer changes its answers after each guess until it is no longer able to given its dictionary.
+Run HangmanManager.java to play the game.
